@@ -1,4 +1,18 @@
 {
+  "departments": [
+    {
+      "id": 1,
+      "name": "accounting"
+    },
+    {
+      "id": 2,
+      "name": "Piano Key Refurbishing"
+    },
+    {
+      "id": 3,
+      "name": "Avant-Garde Jazz"
+    }
+  ],
   "computers": [
     {
       "id": 1,
@@ -32,12 +46,14 @@
       "firstName": "Dainu",
       "lastName": "Ettycheriah",
       "computerId": 5,
+      "departmentId": 1,
       "age": 39
     },
     {
       "id": 2,
       "firstName": "Trainu",
       "lastName": "Bittycheriah",
+      "departmentId": 2,
       "computerId": 4,
       "age": 34
     },
@@ -45,6 +61,7 @@
       "id": 3,
       "firstName": "Gainu",
       "lastName": "Sittycheriah",
+      "departmentId": 3,
       "computerId": 3,
       "age": 39
     },
@@ -52,6 +69,7 @@
       "id": 4,
       "firstName": "Flainu",
       "lastName": "Whittycheriah",
+      "departmentId": 3,
       "computerId": 2,
       "age": 30
     },
@@ -59,6 +77,7 @@
       "id": 5,
       "firstName": "Zainu",
       "lastName": "Zi ttycheriah",
+      "departmentId": 2,
       "computerId": 1,
       "age": 39
     }
