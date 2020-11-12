@@ -1,4 +1,18 @@
 {
+  "locations": [
+    {
+      "id": 1,
+      "city": "Nashville"
+    },
+    {
+      "id": 2,
+      "city": "Atlanta"
+    },
+    {
+      "id": 3,
+      "city": "Memphis"
+    }
+  ],
   "departments": [
     {
       "id": 1,
@@ -47,6 +61,7 @@
       "lastName": "Ettycheriah",
       "computerId": 5,
       "departmentId": 1,
+      "locationId": 1,
       "age": 39
     },
     {
@@ -55,6 +70,7 @@
       "lastName": "Bittycheriah",
       "departmentId": 2,
       "computerId": 4,
+      "locationId": 2,
       "age": 34
     },
     {
@@ -63,6 +79,7 @@
       "lastName": "Sittycheriah",
       "departmentId": 3,
       "computerId": 3,
+      "locationId": 3,
       "age": 39
     },
     {
@@ -71,6 +88,7 @@
       "lastName": "Whittycheriah",
       "departmentId": 3,
       "computerId": 2,
+      "locationId": 1,
       "age": 30
     },
     {
@@ -79,6 +97,7 @@
       "lastName": "Zi ttycheriah",
       "departmentId": 2,
       "computerId": 1,
+      "locationId": 1,
       "age": 39
     }
   ]
